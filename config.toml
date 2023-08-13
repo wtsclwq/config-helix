@@ -76,5 +76,5 @@ a = ["move_char_right","insert_mode"]
 
 [keys.insert]
 "esc" = [":sh macism com.apple.keylayout.ABC", "normal_mode"]
-
+"C-n" = "normal_mode"
 # [keys.select]
